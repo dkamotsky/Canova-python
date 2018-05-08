@@ -1,5 +1,5 @@
 #!/usr/bin/python
-from canova_source import *
+from canova.canova_source import *
 
 def test():
     x = [1,3,3,4,5,5,6,7,7,7,8,8,9]
